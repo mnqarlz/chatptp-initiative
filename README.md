@@ -1,7 +1,7 @@
 ChatPTP: Internal AI Assistant
 Version: 1.0 (Prototype)
 
-Author: [Your Name/Department]
+Author: Muhammad Aiman Haiqal
 
 Status: Internal Development
 
